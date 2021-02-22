@@ -11,4 +11,10 @@ sections:
         url: /
         style: button
 template: advanced
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 ---
