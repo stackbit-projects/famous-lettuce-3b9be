@@ -1,5 +1,5 @@
 ---
-title: Thank You!
+title: Thank You! Dettol
 hide_title: false
 sections:
   - type: hero_section
